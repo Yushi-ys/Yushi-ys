@@ -31,7 +31,7 @@
 
 # <a href="https://jzq422bol5.feishu.cn/docx/doxcnyogD4POabvLHoa1yoEH9W0">个人说明书</a>
 
-- 🧱 打工记录：**支付宝、永中软件**
+- 🧱 打工记录：**🐜**
 - 🚀 个人博客：https://github.com/Yushi-ys/Blog
 - ⚡️ 计算机科学与技术专业 略懂算法 喜欢前端
 - 🎉 你若盛开，清风自来；相约而至，风雨无阻，漫漫岁月，赤子之心
